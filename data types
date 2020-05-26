@@ -1,0 +1,12 @@
+Data types
+
+•	Sizeof() is  use to check the size of a variable.
+•	stdbool.h must be included in c to use bool variable in c.
+•	and it is already included in c++.
+•	Some data types like char , short int take less number of bytes than int, these data types are automatically promoted to int or unsigned int when an operation is performed on them. This is called integer promotion
+•	It’s a type which is used to represent the size of objects in bytes and is therefore used as the return type by the sizeof().
+•	We can’t use any modifiers in float data type. If programmer tries to use it ,the compiler automatically gives compile time error.
+•	Only long modifier is allowed in double data types. We cant use any other specifier with double data type. If we try any other specifier, compiler will give compile time error.
+•	Type conversion
+1.	Implicit type conversion – automatic type conversion.
+2.	Explicit type conversion – user defined type conversion.
